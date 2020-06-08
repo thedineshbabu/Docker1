@@ -1,0 +1,10 @@
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/bin/Release/netcoreapp3.1/NetCore.Docker.deps.json
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/bin/Release/netcoreapp3.1/NetCore.Docker.runtimeconfig.json
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/bin/Release/netcoreapp3.1/NetCore.Docker.runtimeconfig.dev.json
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/bin/Release/netcoreapp3.1/NetCore.Docker.dll
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/bin/Release/netcoreapp3.1/NetCore.Docker.pdb
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/obj/Release/netcoreapp3.1/NetCore.Docker.csprojAssemblyReference.cache
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/obj/Release/netcoreapp3.1/NetCore.Docker.AssemblyInfoInputs.cache
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/obj/Release/netcoreapp3.1/NetCore.Docker.AssemblyInfo.cs
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/obj/Release/netcoreapp3.1/NetCore.Docker.dll
+/Users/deebee/Documents/Repo/DockerSample/DockerHW/obj/Release/netcoreapp3.1/NetCore.Docker.pdb
